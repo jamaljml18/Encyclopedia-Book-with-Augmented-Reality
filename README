@@ -8,7 +8,6 @@
 
 * **Pindai dan Tampilkan:** Pindai halaman buku _Bumi Kita Negeri Kita_ untuk memunculkan konten digital.
 * **Konten 3D Interaktif:** Saksikan animasi objek 3D yang membuat materi pelajaran menjadi lebih nyata.
-* **Narasi Audio:** Dengarkan penjelasan yang jelas dan menarik untuk setiap konten yang muncul.
 * **Belajar Menyenangkan:** Ubah pengalaman membaca buku menjadi petualangan interaktif.
 
 ---
@@ -24,19 +23,7 @@
 
 ### Kebutuhan Sistem
 
-* Perangkat Android atau iOS (spesifikasi minimum akan dicantumkan di halaman toko aplikasi).
+* Perangkat Android.
 * Salinan fisik buku **Bumi Kita Negeri Kita**.
 
 ---
-
-### Kontak dan Dukungan
-
-Jika Anda memiliki pertanyaan atau mengalami masalah, silakan hubungi tim dukungan kami di [alamat email Anda].
-
----
-
-### Kredit
-
-* **Pengembang:** [Nama atau Tim Pengembang Anda]
-* **Konten Buku:** [Nama Penulis/Penerbit Buku]
-* **Teknologi AR:** [Jika menggunakan framework seperti ARCore, ARKit, atau Vuforia]
