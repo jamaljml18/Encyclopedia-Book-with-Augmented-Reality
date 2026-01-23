@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="papuabaratdaya" size="1.000000 1.460775" />
+    <ImageTarget name="papuaselatan" size="1.000000 1.470588" />
+    <ImageTarget name="papuabarat" size="1.000000 1.470588" />
+    <ImageTarget name="papuapegunungan" size="1.000000 1.470588" />
+    <ImageTarget name="papuatengah" size="1.000000 1.470588" />
+    <ImageTarget name="papuajayapura" size="1.000000 1.470588" />
+    <ImageTarget name="malukuambon" size="1.000000 1.470588" />
+    <ImageTarget name="malukuutara" size="1.000000 1.470588" />
+    <ImageTarget name="3" size="1.000000 1.470588" />
+    <ImageTarget name="bangkai-min" size="1.000000 1.481370" />
+    <ImageTarget name="raflesia-min" size="1.000000 1.516495" />
+    <ImageTarget name="hidrologi-min" size="1.000000 1.479879" />
+    <ImageTarget name="bumi-min" size="1.000000 1.440744" />
+    <ImageTarget name="musalaki" size="1.000000 1.470588" />
+    <ImageTarget name="istanaloka" size="1.000000 1.470588" />
+    <ImageTarget name="bentar" size="1.000000 1.470588" />
+    <ImageTarget name="boyang" size="1.000000 1.470588" />
+    <ImageTarget name="tambi" size="1.000000 1.470588" />
+    <ImageTarget name="walewangko" size="1.000000 1.470588" />
+    <ImageTarget name="banuatada" size="1.000000 1.470588" />
+    <ImageTarget name="tongkonan" size="1.000000 1.470588" />
+    <ImageTarget name="dulohupa" size="1.000000 1.470588" />
+    <ImageTarget name="baloy" size="1.000000 1.470588" />
+    <ImageTarget name="betang" size="1.000000 1.470588" />
+    <ImageTarget name="bubungan_tinggi" size="1.000000 1.470588" />
+    <ImageTarget name="lamin" size="1.000000 1.470588" />
+    <ImageTarget name="panjang" size="1.000000 1.470588" />
+    <ImageTarget name="banten" size="1.000000 1.470588" />
+    <ImageTarget name="jawatimur" size="1.000000 1.470588" />
+    <ImageTarget name="yogyakarta" size="1.000000 1.470588" />
+    <ImageTarget name="jawatengah" size="1.000000 1.470588" />
+    <ImageTarget name="jawabarat" size="1.000000 1.470588" />
+    <ImageTarget name="jakarta" size="1.000000 1.470588" />
+    <ImageTarget name="gadang" size="1.000000 1.470588" />
+    <ImageTarget name="bolon" size="1.000000 1.470588" />
+    <ImageTarget name="rakit" size="1.000000 1.470588" />
+    <ImageTarget name="nuwo_sesat" size="1.000000 1.470588" />
+    <ImageTarget name="kajang_leko" size="1.000000 1.470588" />
+    <ImageTarget name="limas_potong" size="1.000000 1.470588" />
+    <ImageTarget name="selaso" size="1.000000 1.470588" />
+    <ImageTarget name="bubungan" size="1.000000 1.470588" />
+    <ImageTarget name="limas" size="1.000000 1.470588" />
+    <ImageTarget name="krong_bade" size="1.000000 1.470588" />
+    <ImageTarget name="komodo" size="1.000000 1.470588" />
+    <ImageTarget name="tapir" size="1.000000 1.470588" />
+    <ImageTarget name="maleo" size="1.000000 1.470588" />
+    <ImageTarget name="pesut" size="1.000000 1.470588" />
+    <ImageTarget name="badak" size="1.000000 1.470588" />
+    <ImageTarget name="gajah" size="1.000000 1.470588" />
+    <ImageTarget name="elang_jawa" size="1.000000 1.470588" />
+    <ImageTarget name="harimau" size="1.000000 1.470588" />
+    <ImageTarget name="cendrawasih" size="1.000000 1.470588" />
+    <ImageTarget name="halaman4" size="1.000000 1.471264" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,2 @@
+D:\Unity\Encyclopedia Book with Augmented Reality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity\Encyclopedia Book with Augmented Reality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

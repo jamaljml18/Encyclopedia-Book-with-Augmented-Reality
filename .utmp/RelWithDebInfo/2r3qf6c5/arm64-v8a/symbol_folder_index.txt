@@ -1,0 +1,1 @@
+D:\Unity\Encyclopedia Book with Augmented Reality\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2r3qf6c5\obj\arm64-v8a

@@ -1,0 +1,5 @@
+D:/Unity/Encyclopedia Book with Augmented Reality/.utmp/RelWithDebInfo/2r3qf6c5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Unity/Encyclopedia Book with Augmented Reality/.utmp/RelWithDebInfo/2r3qf6c5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Unity/Encyclopedia Book with Augmented Reality/.utmp/RelWithDebInfo/2r3qf6c5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Unity/Encyclopedia Book with Augmented Reality/.utmp/RelWithDebInfo/2r3qf6c5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Unity/Encyclopedia Book with Augmented Reality/.utmp/RelWithDebInfo/2r3qf6c5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
